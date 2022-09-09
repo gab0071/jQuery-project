@@ -1,4 +1,4 @@
-# A little fun prject using jQuery? 🥳
+# A little fun project using jQuery? 🥳
 
 
 -   Live Demo using jQuery 💥: https://hilarious-snickerdoodle-05fe6a.netlify.app
