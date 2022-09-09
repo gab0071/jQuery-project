@@ -1,7 +1,7 @@
 # A little fun project using jQuery? 🥳
 
 
--   Live Demo using jQuery 💥: https://hilarious-snickerdoodle-05fe6a.netlify.app
+-   Live Demo using jQuery Events 💥:https://magnificent-rabanadas-679341.netlify.app
 
 ## In this Repo the tools I used were:
 
