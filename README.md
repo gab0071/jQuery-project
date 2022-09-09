@@ -40,8 +40,8 @@
 Clone this Repo
 
 ```
-git clone https://github.com/gab0071/jQuery-poject
-cd jQuery-poject
+git clone https://github.com/gab0071/jQuery-project
+cd jQuery-project
 ```
 
 Then install dependencies
